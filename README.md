@@ -1,3 +1,5 @@
+[marksaitis - this was forked for myself on 2018/09/27 17:05 Swiss time. All the source and notes below are as of original at that time]
+
 [![pipeline status](https://gitlab.linphone.org/BC/public/flexisip/badges/master/pipeline.svg)](https://gitlab.linphone.org/BC/public/flexisip/commits/master)
 
 Flexisip is a SIP server suite comprising:
